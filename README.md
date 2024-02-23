@@ -1,4 +1,4 @@
-## Olá, sou o Vinícius Ferraz!
+## Olá, me chamo Vinícius Ferraz!
 
 - 🔭 Atualmente estou procurando uma oportunidade de engressar no mercado de trabalho.
 - 🌱 Atualmente estou aprendendo JavaScript pelo cursoemvideo com o Grande Professor Guanabara.
