@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou aprendendo JavaScript pelo cursoemvideo com o Grande Professor Guanabara.
 - 👯 Procuro colaborar em Projetos OpenSource
 - 📫 Como entrar em contato comigo: viniciusferraz963@gmail.com
-- 😄 Pronomes: ele/dele
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFerraz&show_icons=true&theme=maroongold)
           
