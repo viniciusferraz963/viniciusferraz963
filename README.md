@@ -5,6 +5,7 @@
 - 👯 Procuro colaborar em Projetos OpenSource
 - 📫 Como entrar em contato comigo: viniciusferraz963@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: ...
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFerraz&show_icons=true&theme=maroongold)
+          
+          
