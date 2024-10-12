@@ -1,7 +1,7 @@
 ## Olá, me chamo Vinícius Ferraz!
 Seja bem vindo!
 
-- 🔭 Atualmente estou procurando uma oportunidade de engressar no mercado de trabalho.
+- 🔭 Atualmente estou procurando uma oportunidade de ingressar no mercado de trabalho.
 - 🌱 Atualmente estou aprendendo JavaScript pelo cursoemvideo com o Grande Professor Guanabara.
 - 📫 Como entrar em contato comigo: viniciusferraz963@gmail.com
 
